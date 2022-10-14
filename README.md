@@ -1,9 +1,6 @@
-# Fresh Chrome Extension boilerplate (Manifest V3)
+When full-screened in a YouTube video, the title sometimes blocks content such as URLs, terminal commands, and others when paused. You have to exit full-screen to reveal the content behind it or let it play which is not ideal when you want to pause at a specific timestamp. This extension removes the title on the video player.
 
-## Purpose
+Before
 
-This extension can be used as a boilerplate for creating new extensions for Chrome based browsers, like Google Chrome.
 
-## What it does
-
-When installed it will write something to DevTools console (F12) at the three most common events: before page load, after page load and when the user clicks the extension button on browser top bar.
+After
