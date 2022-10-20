@@ -1,6 +1,6 @@
 {
   "name": "YouTube for Developers",
-  "description": "Remove YouTube title when fullscreened for reading any urls.",
+  "description": "Removes YouTube title when fullscreened to reveal content behind it.",
   "homepage_url": "https://github.com/srirajbura16",
   "version": "2.0.0",
   "manifest_version": 3,
